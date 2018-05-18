@@ -10,5 +10,6 @@
 
     <dimen name="textview_padding">16dp</dimen>
     <dimen name="cardview_elevation">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
 
 </resources>
